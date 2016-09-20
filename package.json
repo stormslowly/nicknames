@@ -1,0 +1,12 @@
+{
+  "name": "nicknames",
+  "version": "1.0.0",
+  "description": "1000+ real user nicknames",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["random","username","nickname"],
+  "author": "pshu stormslowly@gmail.com",
+  "license": "MIT"
+}
